@@ -35,6 +35,9 @@
     background-color: #82ffd5;
     
 }
+.formulario{
+
+}
 .rodape{
     background-color: #0de2e2;
     height: 70px;
@@ -56,4 +59,7 @@ display: flex;
 align-items: center;
 gap: 5px;
 text-decoration: none;
+.redes a: hober{
+    color: bla;
+}
 }
